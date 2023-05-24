@@ -13,7 +13,7 @@ This is the first event of this kind aiming to bring together quantum researcher
 * [Denys Bondar](https://sse.tulane.edu/pep/faculty/bondar), Tulane University, USA
 * [Andrii Sotnikov](https://sites.google.com/site/agsotnikov/), NSC KIPT and V.N. Karazin National University, Kharkiv, Ukraine
 
-## Confirmed Invites Speakers
+## Confirmed Invited Speakers
 
 * Martina Barnas, Office of Naval Research Global, London, UK
 * Kurt Jacobs, US Army Research Laboratory and University of Massachusetts, Boston
