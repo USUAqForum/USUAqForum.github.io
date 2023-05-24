@@ -4,14 +4,14 @@
 
 
 ## Location: Zoom
-## Dates: TBA (some time in August 2023)
+## Dates: TBA (tentatively August 2023)
 
 This is the first event of this kind aiming to bring together quantum researchers from the United States and Ukraine. Quantum technologies play ever increasing role in the modern economy. Establishing collaborations will not only further strengthen the binational relation, but also lay the ground for Ukraine's revitalization. We hope that this forum will become a recurring event.
 
 ## Organizers
 
 * [Denys Bondar](https://sse.tulane.edu/pep/faculty/bondar), Tulane University, USA
-* [Andrii Sotnikov](https://sites.google.com/site/agsotnikov/) NSC KIPT and V.N. Karazin National University, Kharkiv, Ukraine
+* [Andrii Sotnikov](https://sites.google.com/site/agsotnikov/), NSC KIPT and V.N. Karazin National University, Kharkiv, Ukraine
 
 ## Confirmed Invites Speakers
 
