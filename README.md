@@ -20,4 +20,4 @@ This is the first event of this kind aiming to bring together quantum researcher
 
 ## Important Notice for Potential Ukrainian Participains 
 
-To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using this LaTeX template. The abstracts will be published in an accompanying proceedings.
+To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using this LaTeX template **before July 15, 2023**. The abstracts will be published in an accompanying proceedings.
