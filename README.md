@@ -3,10 +3,10 @@
 <img src="./logo.png" width="300">
 
 
-## Location: Zooom
-## Dates: TBA (some time in Augus 2023)
+## Location: Zoom
+## Dates: TBA (some time in August 2023)
 
-This is the first event of this kind aiming to bring together quantum researchers from the United States and Ukraine. Quantum technologies play ever increasing role in the moder economy. Establishing collaborations will not only further strength the binational relation, but also lay the ground for Ukraine's revitalization. We hope that this forum will become a recurring event.
+This is the first event of this kind aiming to bring together quantum researchers from the United States and Ukraine. Quantum technologies play ever increasing role in the modern economy. Establishing collaborations will not only further strengthen the binational relation, but also lay the ground for Ukraine's revitalization. We hope that this forum will become a recurring event.
 
 ## Organizers
 
@@ -20,4 +20,4 @@ This is the first event of this kind aiming to bring together quantum researcher
 
 ## Important Notice for Potential Ukrainian Participains 
 
-To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using this LaTeX template **before July 15, 2023**. The abstracts will be published in an accompanying proceedings.
+To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using this LaTeX template **before July 7, 2023**. The abstracts will be published in an accompanying proceedings.
