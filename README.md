@@ -8,7 +8,7 @@
 
 This is the first event of this kind aiming to bring together quantum researchers from the United States and Ukraine. Quantum technologies play ever increasing role in the modern economy. Establishing collaborations will not only further strengthen the binational relation, but also lay the ground for Ukraine's revitalization. We hope that this forum will become a recurring event.
 
-Topics covered include, but not limited to: Quantum information, computing, communication, metrology, optics, many-body and few-body systems, control, and open systems
+Topics covered include, but not limited to: Quantum information, computing, communication, metrology, optics, many-body and few-body systems, control, and open systems.
 
 ## Organizers
 
@@ -23,4 +23,4 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 
 ## Important Notice for Potential Ukrainian Participains 
 
-To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 7, 2023**. The abstracts will be published in an accompanying proceedings.
+To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 7, 2023**. The abstracts will be published in the accompanying proceedings.
