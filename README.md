@@ -8,7 +8,7 @@
 
 This is the first event of this kind aiming to bring together quantum researchers from the United States and Ukraine. Quantum technologies play ever increasing role in the modern economy. Establishing collaborations will not only further strengthen the binational relation, but also lay the ground for Ukraine's revitalization. We hope that this forum will become a recurring event.
 
-Topics covered include, but not limited to: Quantum information, computing, communication, metrology, optics, many-body and few-body systems, control, and open systems.
+Topics covered include, but not limited to: Quantum information, computing, communication, sensing and metrology, optics, many-body and few-body systems, control, and open systems.
 
 ## Organizers
 
