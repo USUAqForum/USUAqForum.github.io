@@ -19,6 +19,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 
 * Martina Barnas, Office of Naval Research Global, London, UK
 * Kurt Jacobs, US Army Research Laboratory and University of Massachusetts, Boston
+* [Adam Kaufman](https://jila.colorado.edu/kaufman), JILA, University of Colorado at Boulder
 
 
 ## Important Notice for Potential Ukrainian Participains 
