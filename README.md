@@ -18,11 +18,15 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 ## Confirmed Invited Speakers
 
 * Martina Barnas, Office of Naval Research Global, London, UK
-* Kurt Jacobs, US Army Research Laboratory and University of Massachusetts, Boston
+* [Kurt Jacobs](http://www.quantum.umb.edu/Jacobs/), US Army Research Laboratory and University of Massachusetts, Boston
 * [Adam Kaufman](https://jila.colorado.edu/kaufman), JILA, University of Colorado at Boulder
+* [Ignacio Franco](https://www.sas.rochester.edu/chm/people/faculty/franco-ignacio/index.html), University of Rochester
 
 
 ## Important Notice for Potential Ukrainian Participains 
 
 To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 7, 2023**. The abstracts will be published in the accompanying proceedings.
 To be included to the mailing list for the key updates about the qForum, please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd4YCYAoZ8ZqiDg4kaEN6MXU5mSl40uhA3tXprs7A7aKjlatw/viewform?usp=sf_link) (optional).
+
+## The event is sponsored by
+<img src="https://sse.tulane.edu/sites/default/files/sse_lockup.png" width="400">
