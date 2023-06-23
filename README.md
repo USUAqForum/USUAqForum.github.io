@@ -21,7 +21,9 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Kurt Jacobs](http://www.quantum.umb.edu/Jacobs/), US Army Research Laboratory and University of Massachusetts, Boston
 * [Adam Kaufman](https://jila.colorado.edu/kaufman), JILA, University of Colorado at Boulder
 * [Ignacio Franco](https://www.sas.rochester.edu/chm/people/faculty/franco-ignacio/index.html), University of Rochester
-
+* [Alexei Sokolov](https://physics.tamu.edu/directory/sokol/), Texas A&M University
+* [Alexandra Boltasseva](https://engineering.purdue.edu/~aeb/), Purdue University
+* [Alexander Burin](https://sse.tulane.edu/chem/faculty/burin), Tulane Univeristy
 
 ## Important Notice for Potential Ukrainian Participains 
 
