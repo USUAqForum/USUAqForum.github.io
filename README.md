@@ -24,6 +24,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Alexei Sokolov](https://physics.tamu.edu/directory/sokol/), Texas A&M University
 * [Alexandra Boltasseva](https://engineering.purdue.edu/~aeb/), Purdue University
 * [Alexander Burin](https://sse.tulane.edu/chem/faculty/burin), Tulane Univeristy
+* [Christian Arenz](https://search.asu.edu/profile/4016702), Arizona State University
 
 ## Important Notice for Potential Ukrainian Participains 
 
