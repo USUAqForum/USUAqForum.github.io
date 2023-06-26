@@ -28,7 +28,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Sergey Frolov](https://www.physicsandastronomy.pitt.edu/people/sergey-frolov), University of Pittsburgh
 * [Christopher Fuchs](http://www.physics.umb.edu/Research/QBism/chris.html), University of Massachusetts, Boston
 
-## Important Notice for Potential Ukrainian Participains 
+## Important Notice for Potential Ukrainian Participants 
 
 To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 7, 2023**. The abstracts will be published in the accompanying proceedings.
 To be included to the mailing list for the key updates about the qForum, please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd4YCYAoZ8ZqiDg4kaEN6MXU5mSl40uhA3tXprs7A7aKjlatw/viewform?usp=sf_link) (optional).
