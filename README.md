@@ -27,6 +27,8 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Christian Arenz](https://search.asu.edu/profile/4016702), Arizona State University
 * [Sergey Frolov](https://www.physicsandastronomy.pitt.edu/people/sergey-frolov), University of Pittsburgh
 * [Christopher Fuchs](http://www.physics.umb.edu/Research/QBism/chris.html), University of Massachusetts, Boston
+* [Sebastian Deffner](https://physics.umbc.edu/people/faculty/deffner/), University of Maryland, Baltimore County
+
 
 ## Important Notice for Potential Ukrainian Participants 
 
