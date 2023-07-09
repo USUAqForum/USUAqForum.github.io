@@ -29,6 +29,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Christopher Fuchs](http://www.physics.umb.edu/Research/QBism/chris.html), University of Massachusetts, Boston
 * [Sebastian Deffner](https://physics.umbc.edu/people/faculty/deffner/), University of Maryland, Baltimore County
 * [Matt Trusheim](https://scholar.google.com/citations?user=RUJ8W9wAAAAJ&hl=en), US Army Research Laboratory
+* [Mikhail Lukin](https://www.physics.harvard.edu/people/facpages/lukin), Harvard University
 
 
 ## Important Notice for Potential Ukrainian Participants 
