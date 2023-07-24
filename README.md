@@ -55,7 +55,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 ## Important Notice for Potential Ukrainian Participants 
 
 <!-- To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 10, 2023**. -->
-The abstracts submitted by Ukrainian participants (15 selected presentations for contributed talks) will be published in the accompanying proceedings (tentatively, on July 24, 2023).
+The abstracts submitted by Ukrainian participants will be published in the accompanying proceedings (see also [the book of abstracts](./Abstracts_USUAqForum_2023.pdf)).
 To be included to the mailing list for the key updates about the qForum, please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd4YCYAoZ8ZqiDg4kaEN6MXU5mSl40uhA3tXprs7A7aKjlatw/viewform?usp=sf_link) (optional).
 
 ## The event is sponsored by
