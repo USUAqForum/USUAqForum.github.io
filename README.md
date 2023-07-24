@@ -4,7 +4,7 @@
 
 
 ## Location: Zoom
-## Dates: TBA (tentatively August 2023)
+## Dates: August 28-31, 2023
 
 This is the first event of this kind aiming to bring together quantum researchers from the United States and Ukraine. Quantum technologies play ever increasing role in the modern economy. Establishing collaborations will not only further strengthen the binational relation, but also lay the ground for Ukraine's revitalization. We hope that this forum will become a recurring event.
 
@@ -31,6 +31,25 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Matt Trusheim](https://scholar.google.com/citations?user=RUJ8W9wAAAAJ&hl=en), US Army Research Laboratory
 * [Mikhail Lukin](https://www.physics.harvard.edu/people/facpages/lukin), Harvard University
 * [Dimitris Giannakis](https://giannakis.host.dartmouth.edu/), Dartmouth College
+
+## Contributed Speakers
+* [Ali Aliev](https://scholar.google.com.ua/citations?user=K8Uh20MAAAAJ&hl=en&oi=ao), University of Texas at Dallas
+* [Mikhail Belogolovskii](https://scholar.google.com/citations?hl=en&user=jKromjQAAAAJ&view_op=list_works&sortby=pubdate) Comenius University, Bratislava, Slovak Republic and Kyiv Academic University, Ukraine
+* [Igor Gapyak](https://scholar.google.com/citations?user=YPD5LR8AAAAJ&hl=en&oi=ao), Taras Shevchenko National University of Kyiv
+* [Viktor Gerasimenko](https://scholar.google.com/citations?user=BkJhoJ8AAAAJ&hl=en&oi=sra), Institute of mathematics of National Academy of Sciences of Ukraine of Ukraine
+* [Khrystyna Gnatenko](https://scholar.google.com/citations?hl=en&user=2W2w7pEAAAAJ), Ivan Franko National University of Lviv
+* [Mykhaylo Khoma](https://scholar.google.com/citations?user=brdZXv4AAAAJ&hl=en&oi=ao), Institute of Electron Physics, National Academy of Sciences of Ukraine, Uzhhorod
+* [Yuriy Kurioz](https://scholar.google.com/citations?user=athGK8gAAAAJ&hl=en&oi=sra), Institute of Physics, Kyiv
+* [Robert Lompay](https://scholar.google.com/citations?user=7OPnn9EAAAAJ&hl=en&oi=ao), Uzhhorod National University
+* [Illia Lukin](https://scholar.google.com/citations?user=xHhKp7gAAAAJ&hl=en&oi=sra), NSC KIPT and V.N. Karazin National University, Kharkiv
+* [A. A. Semenov](https://scholar.google.com.ua/citations?user=aUco_KwAAAAJ&hl=en), Bogolyubov Institute for Theoretical Physics and Kyiv Academic University and Institute of Physics, Kyiv
+* [Sergey Shevchenko](https://scholar.google.com.ua/citations?user=TfSG1KoAAAAJ&hl=en&oi=ao), Verkin Institute for Low Temperature Physics and Engineering, Kharkiv
+* [Gleb Skorobagatko](https://scholar.google.com/citations?user=H6aPF8EAAAAJ&hl=en&oi=ao), Institute for Condensed Matter Physics of National Academy of Sciences of Ukraine, Lviv
+* [Maksym Teslyk](https://scholar.google.com.ua/citations?user=BjcJn_IAAAAJ&hl=en&oi=ao), Taras Shevchenko National University of Kyiv
+* [Vladyslav Unukovych](https://scholar.google.com/citations?user=tcJbX6cAAAAJ&hl=en&oi=ao), V.N. Karazin National University, Kharkiv
+
+## Schedule
+
 
 
 ## Important Notice for Potential Ukrainian Participants 
