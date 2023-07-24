@@ -50,62 +50,67 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 
 ## Schedule
 Day 1, August 28
+
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 10:00 - 10:40  | 17:00 - 17:40  | Opening - Denys Bondar  |
 | 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
-|   |       | short break |
+|  |  short break | |
 | 11:40 - 12:20  | 18:40 - 19:20  | Invited Talk (TBA)      |
 | 12:20 - 13:00  | 19:20 - 20:00  | Invited Talk (TBA)      |
 
 Day 2, August 29
+
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 7:00 - 7:20  | 14:00 - 14:20  | Contributed Talk (TBA)    |
 | 7:20 - 7:40  | 14:20 - 14:40  | Contributed Talk (TBA)    |
 | 7:40 - 8:00  | 14:40 - 15:00  | Contributed Talk (TBA)    |
-|   |       | short break |
+|  |  short break | |
 | 8:20 - 8:40  | 15:20 - 15:40  | Contributed Talk (TBA)    |
 | 8:40 - 9:00  | 15:40 - 16:00  | Contributed Talk (TBA)    |
-|   |       | long break |
+|   |  long break | |
 | 10:00 - 10:40  | 17:00 - 17:40  | Alexandra Boltasseva    |
 | 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
-|   |       | short break |
+|  |  short break | |
 | 11:30 - 12:10  | 18:30 - 19:10  | Invited Talk (TBA)      |
 | 12:10 - 12:50  | 19:10 - 19:50  | Invited Talk (TBA)      |
-|   |       | short break |
+|  |  short break | |
 | 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
 
 Day 3, August 30
+
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 7:00 - 7:20  | 14:00 - 14:20  | Contributed Talk (TBA)    |
 | 7:20 - 7:40  | 14:20 - 14:40  | Contributed Talk (TBA)    |
 | 7:40 - 8:00  | 14:40 - 15:00  | Contributed Talk (TBA)    |
-|   |       | short break |
+|  |  short break | |
 | 8:20 - 8:40  | 15:20 - 15:40  | Contributed Talk (TBA)    |
 | 8:40 - 9:00  | 15:40 - 16:00  | Contributed Talk (TBA)    |
-|   |       | long break |
+|   |  long break | |
 | 10:00 - 10:40  | 17:00 - 17:40  | Sergey Frolov           |
 | 10:40 - 11:20  | 17:40 - 18:20  | Mikhail Lukin           |
-|   |       | short break |
-| 11:40 - 12:20  | 18:40 - 19:20  | Invited Talk (TBA)      |
-| 12:20 - 13:00  | 19:20 - 20:00  | Invited Talk (TBA)      |
+|  |  short break | |
+| 11:30 - 12:10  | 18:30 - 19:10  | Invited Talk (TBA)      |
+| 12:10 - 12:50  | 19:10 - 19:50  | Invited Talk (TBA)      |
+|  |  short break | |
 | 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
 
 Day 4, August 31
+
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 7:00 - 7:20  | 14:00 - 14:20  | Contributed Talk (TBA)    |
 | 7:20 - 7:40  | 14:20 - 14:40  | Contributed Talk (TBA)    |
 | 7:40 - 8:00  | 14:40 - 15:00  | Contributed Talk (TBA)    |
-|   |       | short break |
+|  |  short break | |
 | 8:20 - 8:40  | 15:20 - 15:40  | Contributed Talk (TBA)    |
 | 8:40 - 9:00  | 15:40 - 16:00  | Contributed Talk (TBA)    |
-|   |       | long break |
+|   |  long break | |
 | 10:00 - 10:40  | 17:00 - 17:40  | Alexei Sokolov          |
 | 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
-|   |       | short break |
+|  |  short break | |
 | 11:40 - 12:20  | 18:40 - 19:20  | Invited Talk (TBA)      |
 | 12:20 - 13:00  | 19:20 - 20:00  | Invited Talk (TBA)      |
 | 13:00 - 13:20  | 20:00 - 20:20  | Closing Remarks         |
