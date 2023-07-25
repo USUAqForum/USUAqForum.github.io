@@ -31,23 +31,23 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Matt Trusheim](https://scholar.google.com/citations?user=RUJ8W9wAAAAJ&hl=en), US Army Research Laboratory
 * [Mikhail Lukin](https://www.physics.harvard.edu/people/facpages/lukin), Harvard University
 * [Dimitris Giannakis](https://giannakis.host.dartmouth.edu/), Dartmouth College
-* Dmitry Lyakh, NVIDIA Corporation
+* [Dmitry Lyakh](https://scholar.google.com/citations?user=6BQiylwAAAAJ&hl=en), NVIDIA Corporation
 
 ## Contributed Speakers
 * [Ali Aliev](https://scholar.google.com.ua/citations?user=K8Uh20MAAAAJ&hl=en&oi=ao), University of Texas at Dallas
-* [Mikhail Belogolovskii](https://scholar.google.com/citations?hl=en&user=jKromjQAAAAJ&view_op=list_works&sortby=pubdate) Comenius University, Bratislava, Slovak Republic and Kyiv Academic University, Ukraine
-* [Igor Gapyak](https://scholar.google.com/citations?user=YPD5LR8AAAAJ&hl=en&oi=ao), Taras Shevchenko National University of Kyiv
-* [Viktor Gerasimenko](https://scholar.google.com/citations?user=BkJhoJ8AAAAJ&hl=en&oi=sra), Institute of mathematics of National Academy of Sciences of Ukraine of Ukraine
+* [Mikhail Belogolovskii](https://scholar.google.com/citations?hl=en&user=jKromjQAAAAJ) Comenius University, Bratislava, Slovak Republic and Kyiv Academic University, Ukraine
+* [Igor Gapyak](https://scholar.google.com/citations?user=YPD5LR8AAAAJ), Taras Shevchenko National University of Kyiv
+* [Viktor Gerasimenko](https://scholar.google.com/citations?user=BkJhoJ8AAAAJ), Institute of mathematics of National Academy of Sciences of Ukraine of Ukraine
 * [Khrystyna Gnatenko](https://scholar.google.com/citations?hl=en&user=2W2w7pEAAAAJ), Ivan Franko National University of Lviv
-* [Mykhaylo Khoma](https://scholar.google.com/citations?user=brdZXv4AAAAJ&hl=en&oi=ao), Institute of Electron Physics, National Academy of Sciences of Ukraine, Uzhhorod
-* [Yuriy Kurioz](https://scholar.google.com/citations?user=athGK8gAAAAJ&hl=en&oi=sra), Institute of Physics, Kyiv
-* [Robert Lompay](https://scholar.google.com/citations?user=7OPnn9EAAAAJ&hl=en&oi=ao), Uzhhorod National University
-* [Illia Lukin](https://scholar.google.com/citations?user=xHhKp7gAAAAJ&hl=en&oi=sra), NSC KIPT and V.N. Karazin National University, Kharkiv
-* [Andrii Semenov](https://scholar.google.com.ua/citations?user=aUco_KwAAAAJ&hl=en), Bogolyubov Institute for Theoretical Physics and Kyiv Academic University and Institute of Physics, Kyiv
-* [Sergey Shevchenko](https://scholar.google.com.ua/citations?user=TfSG1KoAAAAJ&hl=en&oi=ao), Verkin Institute for Low Temperature Physics and Engineering, Kharkiv
-* [Gleb Skorobagatko](https://scholar.google.com/citations?user=H6aPF8EAAAAJ&hl=en&oi=ao), Institute for Condensed Matter Physics of National Academy of Sciences of Ukraine, Lviv
-* [Maksym Teslyk](https://scholar.google.com.ua/citations?user=BjcJn_IAAAAJ&hl=en&oi=ao), Taras Shevchenko National University of Kyiv
-* [Vladyslav Unukovych](https://scholar.google.com/citations?user=tcJbX6cAAAAJ&hl=en&oi=ao), V.N. Karazin National University, Kharkiv
+* [Mykhaylo Khoma](https://scholar.google.com/citations?user=brdZXv4AAAAJ), Institute of Electron Physics, National Academy of Sciences of Ukraine, Uzhhorod
+* [Yuriy Kurioz](https://scholar.google.com/citations?user=athGK8gAAAAJ), Institute of Physics, Kyiv
+* [Robert Lompay](https://scholar.google.com/citations?user=7OPnn9EAAAAJ), Uzhhorod National University
+* [Illia Lukin](https://scholar.google.com/citations?user=xHhKp7gAAAAJ), NSC KIPT and V.N. Karazin National University, Kharkiv
+* [Andrii Semenov](https://scholar.google.com.ua/citations?user=aUco_KwAAAAJ), Bogolyubov Institute for Theoretical Physics and Kyiv Academic University and Institute of Physics, Kyiv
+* [Sergey Shevchenko](https://scholar.google.com.ua/citations?user=TfSG1KoAAAAJ), Verkin Institute for Low Temperature Physics and Engineering, Kharkiv
+* [Gleb Skorobagatko](https://scholar.google.com/citations?user=H6aPF8EAAAAJ), Institute for Condensed Matter Physics of National Academy of Sciences of Ukraine, Lviv
+* [Maksym Teslyk](https://scholar.google.com.ua/citations?user=BjcJn_IAAAAJ), Taras Shevchenko National University of Kyiv
+* [Vladyslav Unukovych](https://scholar.google.com/citations?user=tcJbX6cAAAAJ), V.N. Karazin National University, Kharkiv
 
 ## Schedule
 Day 1, Monday, August 28
