@@ -49,7 +49,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Vladyslav Unukovych](https://scholar.google.com/citations?user=tcJbX6cAAAAJ&hl=en&oi=ao), V.N. Karazin National University, Kharkiv
 
 ## Schedule
-Day 1, August 28
+Day 1, Monday, August 28
 
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
@@ -59,18 +59,18 @@ Day 1, August 28
 | 11:40 - 12:20  | 18:40 - 19:20  | Invited Talk (TBA)      |
 | 12:20 - 13:00  | 19:20 - 20:00  | Invited Talk (TBA)      |
 
-Day 2, August 29
+Day 2, Tuesday, August 29
 
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
-| 7:00 - 7:20  | 14:00 - 14:20  | Contributed Talk (TBA)    |
-| 7:20 - 7:40  | 14:20 - 14:40  | Contributed Talk (TBA)    |
-| 7:40 - 8:00  | 14:40 - 15:00  | Contributed Talk (TBA)    |
+|  7:00 -  7:20  | 14:00 - 14:20  | Khrystyna Gnatenko  |
+|  7:20 -  7:40  | 14:20 - 14:40  | Maksym Teslyk   |
+|  7:40 -  8:00  | 14:40 - 15:00  | Andrii Semenov  |
 |  |  short break | |
-| 8:20 - 8:40  | 15:20 - 15:40  | Contributed Talk (TBA)    |
-| 8:40 - 9:00  | 15:40 - 16:00  | Contributed Talk (TBA)    |
+|  8:20 -  8:40  | 15:20 - 15:40  | Mikhail Belogolovskii   |
+|  8:40 -  9:00  | 15:40 - 16:00  | Ali Aliev    |
 |   |  long break | |
-| 10:00 - 10:40  | 17:00 - 17:40  | Alexandra Boltasseva    |
+| 10:00 - 10:40  | 17:00 - 17:40  | Sebastian Deffner       |
 | 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
 |  |  short break | |
 | 11:30 - 12:10  | 18:30 - 19:10  | Invited Talk (TBA)      |
@@ -78,40 +78,40 @@ Day 2, August 29
 |  |  short break | |
 | 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
 
-Day 3, August 30
+Day 3, Wednesday, August 30
 
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
-| 7:00 - 7:20  | 14:00 - 14:20  | Contributed Talk (TBA)    |
-| 7:20 - 7:40  | 14:20 - 14:40  | Contributed Talk (TBA)    |
-| 7:40 - 8:00  | 14:40 - 15:00  | Contributed Talk (TBA)    |
+| 7:00 - 7:20  | 14:00 - 14:20  | Igor Gapyak |
+| 7:20 - 7:40  | 14:20 - 14:40  | Viktor Gerasimenko    |
+| 7:40 - 8:00  | 14:40 - 15:00  | Illia Lukin |
 |  |  short break | |
-| 8:20 - 8:40  | 15:20 - 15:40  | Contributed Talk (TBA)    |
-| 8:40 - 9:00  | 15:40 - 16:00  | Contributed Talk (TBA)    |
+| 8:20 - 8:40  | 15:20 - 15:40  | Vladyslav Unukovych    |
+| 8:40 - 9:00  | 15:40 - 16:00  | Andrii Sotnikov    |
 |   |  long break | |
 | 10:00 - 10:40  | 17:00 - 17:40  | Sergey Frolov           |
 | 10:40 - 11:20  | 17:40 - 18:20  | Mikhail Lukin           |
 |  |  short break | |
-| 11:30 - 12:10  | 18:30 - 19:10  | Invited Talk (TBA)      |
+| 11:30 - 12:10  | 18:30 - 19:10  | Alexandra Boltasseva      |
 | 12:10 - 12:50  | 19:10 - 19:50  | Invited Talk (TBA)      |
 |  |  short break | |
 | 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
 
-Day 4, August 31
+Day 4, Thursday, August 31
 
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
-| 7:00 - 7:20  | 14:00 - 14:20  | Contributed Talk (TBA)    |
-| 7:20 - 7:40  | 14:20 - 14:40  | Contributed Talk (TBA)    |
-| 7:40 - 8:00  | 14:40 - 15:00  | Contributed Talk (TBA)    |
+| 7:00 - 7:20  | 14:00 - 14:20  | Mykhaylo Khoma    |
+| 7:20 - 7:40  | 14:20 - 14:40  | Robert Lompay    |
+| 7:40 - 8:00  | 14:40 - 15:00  | Yuriy Kurioz    |
 |  |  short break | |
-| 8:20 - 8:40  | 15:20 - 15:40  | Contributed Talk (TBA)    |
-| 8:40 - 9:00  | 15:40 - 16:00  | Contributed Talk (TBA)    |
+| 8:20 - 8:40  | 15:20 - 15:40  | Gleb Skorobagatko    |
+| 8:40 - 9:00  | 15:40 - 16:00  | Sergey Shevchenko    |
 |   |  long break | |
 | 10:00 - 10:40  | 17:00 - 17:40  | Alexei Sokolov          |
 | 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
 |  |  short break | |
-| 11:40 - 12:20  | 18:40 - 19:20  | Invited Talk (TBA)      |
+| 11:40 - 12:20  | 18:40 - 19:20  | Christopher Fuchs      |
 | 12:20 - 13:00  | 19:20 - 20:00  | Invited Talk (TBA)      |
 | 13:00 - 13:20  | 20:00 - 20:20  | Closing Remarks         |
 
