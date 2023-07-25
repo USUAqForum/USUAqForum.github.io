@@ -31,6 +31,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Matt Trusheim](https://scholar.google.com/citations?user=RUJ8W9wAAAAJ&hl=en), US Army Research Laboratory
 * [Mikhail Lukin](https://www.physics.harvard.edu/people/facpages/lukin), Harvard University
 * [Dimitris Giannakis](https://giannakis.host.dartmouth.edu/), Dartmouth College
+* Dmitry Lyakh, NVIDIA Corporation
 
 ## Contributed Speakers
 * [Ali Aliev](https://scholar.google.com.ua/citations?user=K8Uh20MAAAAJ&hl=en&oi=ao), University of Texas at Dallas
@@ -42,7 +43,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Yuriy Kurioz](https://scholar.google.com/citations?user=athGK8gAAAAJ&hl=en&oi=sra), Institute of Physics, Kyiv
 * [Robert Lompay](https://scholar.google.com/citations?user=7OPnn9EAAAAJ&hl=en&oi=ao), Uzhhorod National University
 * [Illia Lukin](https://scholar.google.com/citations?user=xHhKp7gAAAAJ&hl=en&oi=sra), NSC KIPT and V.N. Karazin National University, Kharkiv
-* [A. A. Semenov](https://scholar.google.com.ua/citations?user=aUco_KwAAAAJ&hl=en), Bogolyubov Institute for Theoretical Physics and Kyiv Academic University and Institute of Physics, Kyiv
+* [Andrii Semenov](https://scholar.google.com.ua/citations?user=aUco_KwAAAAJ&hl=en), Bogolyubov Institute for Theoretical Physics and Kyiv Academic University and Institute of Physics, Kyiv
 * [Sergey Shevchenko](https://scholar.google.com.ua/citations?user=TfSG1KoAAAAJ&hl=en&oi=ao), Verkin Institute for Low Temperature Physics and Engineering, Kharkiv
 * [Gleb Skorobagatko](https://scholar.google.com/citations?user=H6aPF8EAAAAJ&hl=en&oi=ao), Institute for Condensed Matter Physics of National Academy of Sciences of Ukraine, Lviv
 * [Maksym Teslyk](https://scholar.google.com.ua/citations?user=BjcJn_IAAAAJ&hl=en&oi=ao), Taras Shevchenko National University of Kyiv
