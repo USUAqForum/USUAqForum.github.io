@@ -34,8 +34,8 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Dmitry Lyakh](https://scholar.google.com/citations?user=6BQiylwAAAAJ&hl=en), NVIDIA Corporation
 
 ## Contributed Speakers
-* [Ali Aliev](https://scholar.google.com.ua/citations?user=K8Uh20MAAAAJ&hl=en&oi=ao), University of Texas at Dallas
-* [Mikhail Belogolovskii](https://scholar.google.com/citations?hl=en&user=jKromjQAAAAJ) Comenius University, Bratislava, Slovak Republic and Kyiv Academic University, Ukraine
+* [Ali Aliev](https://scholar.google.com.ua/citations?user=K8Uh20MAAAAJ), University of Texas at Dallas
+* [Mikhail Belogolovskii](https://scholar.google.com/citations?user=jKromjQAAAAJ) Comenius University, Bratislava, Slovak Republic and Kyiv Academic University, Ukraine
 * [Igor Gapyak](https://scholar.google.com/citations?user=YPD5LR8AAAAJ), Taras Shevchenko National University of Kyiv
 * [Viktor Gerasimenko](https://scholar.google.com/citations?user=BkJhoJ8AAAAJ), Institute of mathematics of National Academy of Sciences of Ukraine of Ukraine
 * [Khrystyna Gnatenko](https://scholar.google.com/citations?hl=en&user=2W2w7pEAAAAJ), Ivan Franko National University of Lviv
