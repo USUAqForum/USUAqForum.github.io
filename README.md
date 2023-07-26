@@ -37,7 +37,7 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Ali Aliev](https://scholar.google.com.ua/citations?user=K8Uh20MAAAAJ), University of Texas at Dallas
 * [Mikhail Belogolovskii](https://scholar.google.com/citations?user=jKromjQAAAAJ) Comenius University, Bratislava, Slovak Republic and Kyiv Academic University, Ukraine
 * [Igor Gapyak](https://scholar.google.com/citations?user=YPD5LR8AAAAJ), Taras Shevchenko National University of Kyiv
-* [Viktor Gerasimenko](https://scholar.google.com/citations?user=BkJhoJ8AAAAJ), Institute of mathematics of National Academy of Sciences of Ukraine of Ukraine
+* [Viktor Gerasimenko](https://scholar.google.com/citations?user=BkJhoJ8AAAAJ), Institute of Mathematics, National Academy of Sciences of Ukraine, Kyiv
 * [Khrystyna Gnatenko](https://scholar.google.com/citations?hl=en&user=2W2w7pEAAAAJ), Ivan Franko National University of Lviv
 * [Mykhaylo Khoma](https://scholar.google.com/citations?user=brdZXv4AAAAJ), Institute of Electron Physics, National Academy of Sciences of Ukraine, Uzhhorod
 * [Yuriy Kurioz](https://scholar.google.com/citations?user=athGK8gAAAAJ), Institute of Physics, Kyiv
