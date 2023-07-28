@@ -55,10 +55,10 @@ Day 1, Monday, August 28
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 10:00 - 10:40  | 17:00 - 17:40  | Opening - Denys Bondar  |
-| 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
+| 10:40 - 11:20  | 17:40 - 18:20  | Martina Barnas     |
 |  |  short break | |
-| 11:40 - 12:20  | 18:40 - 19:20  | Invited Talk (TBA)      |
-| 12:20 - 13:00  | 19:20 - 20:00  | Invited Talk (TBA)      |
+| 11:40 - 12:20  | 18:40 - 19:20  | Ignacio Franco      |
+| 12:20 - 13:00  | 19:20 - 20:00  | Christian Arenz      |
 
 Day 2, Tuesday, August 29
 
@@ -71,11 +71,11 @@ Day 2, Tuesday, August 29
 |  8:20 -  8:40  | 15:20 - 15:40  | Mikhail Belogolovskii   |
 |  8:40 -  9:00  | 15:40 - 16:00  | Ali Aliev    |
 |   |  long break | |
-| 10:00 - 10:40  | 17:00 - 17:40  | Sebastian Deffner       |
-| 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
+| 10:00 - 10:40  | 17:00 - 17:40  | Alexander Burin       |
+| 10:40 - 11:20  | 17:40 - 18:20  | Sebastian Deffner      |
 |  |  short break | |
-| 11:30 - 12:10  | 18:30 - 19:10  | Invited Talk (TBA)      |
-| 12:10 - 12:50  | 19:10 - 19:50  | Invited Talk (TBA)      |
+| 11:30 - 12:10  | 18:30 - 19:10  | Dmitry Lyakh      |
+| 12:10 - 12:50  | 19:10 - 19:50  | Dimitris Giannakis      |
 |  |  short break | |
 | 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
 
@@ -90,11 +90,11 @@ Day 3, Wednesday, August 30
 | 8:20 - 8:40  | 15:20 - 15:40  | Vladyslav Unukovych    |
 | 8:40 - 9:00  | 15:40 - 16:00  | Andrii Sotnikov    |
 |   |  long break | |
-| 10:00 - 10:40  | 17:00 - 17:40  | Sergey Frolov           |
+| 10:00 - 10:40  | 17:00 - 17:40  | Adam Kaufman            |
 | 10:40 - 11:20  | 17:40 - 18:20  | Mikhail Lukin           |
 |  |  short break | |
 | 11:30 - 12:10  | 18:30 - 19:10  | Alexandra Boltasseva      |
-| 12:10 - 12:50  | 19:10 - 19:50  | Invited Talk (TBA)      |
+| 12:10 - 12:50  | 19:10 - 19:50  | Sergey Frolov      |
 |  |  short break | |
 | 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
 
@@ -109,11 +109,11 @@ Day 4, Thursday, August 31
 | 8:20 - 8:40  | 15:20 - 15:40  | Gleb Skorobagatko    |
 | 8:40 - 9:00  | 15:40 - 16:00  | Sergey Shevchenko    |
 |   |  long break | |
-| 10:00 - 10:40  | 17:00 - 17:40  | Alexei Sokolov          |
-| 10:40 - 11:20  | 17:40 - 18:20  | Invited Talk (TBA)      |
+| 10:00 - 10:40  | 17:00 - 17:40  | Kurt Jacobs          |
+| 10:40 - 11:20  | 17:40 - 18:20  | Alexei Sokolov      |
 |  |  short break | |
 | 11:40 - 12:20  | 18:40 - 19:20  | Christopher Fuchs      |
-| 12:20 - 13:00  | 19:20 - 20:00  | Invited Talk (TBA)      |
+| 12:20 - 13:00  | 19:20 - 20:00  | Matt Trusheim      |
 | 13:00 - 13:20  | 20:00 - 20:20  | Closing Remarks         |
 
 ## Important Notice for Potential Ukrainian Participants 
