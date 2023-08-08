@@ -116,6 +116,8 @@ Day 4, Thursday, August 31
 | 12:20 - 13:00  | 19:20 - 20:00  | Matt Trusheim      |
 | 13:00 - 13:20  | 20:00 - 20:20  | Closing Remarks         |
 
+## [General Registration](https://forms.office.com/Pages/ResponsePage.aspx?id=g4HpndklE0ufw03lSJwfO5hB23SQfe1Pj10lK9v_r4VUNjhRN0FCQ05QU1dQUUVTNjJFSTlPV1U3MC4u) 
+
 ## Important Notice for Potential Ukrainian Participants 
 
 <!-- To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 10, 2023**. -->
