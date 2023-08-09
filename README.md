@@ -77,7 +77,7 @@ Day 2, Tuesday, August 29
 | 11:30 - 12:10  | 18:30 - 19:10  | Dmitry Lyakh      |
 | 12:10 - 12:50  | 19:10 - 19:50  | Dimitris Giannakis      |
 |  |  short break | |
-| 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
+| 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion / NSF IMPRESS-U projects initiatives    |
 
 Day 3, Wednesday, August 30
 
@@ -96,7 +96,7 @@ Day 3, Wednesday, August 30
 | 11:30 - 12:10  | 18:30 - 19:10  | Alexandra Boltasseva      |
 | 12:10 - 12:50  | 19:10 - 19:50  | Sergey Frolov      |
 |  |  short break | |
-| 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion     |
+| 13:00 - 13:40  | 20:00 - 20:40  | Informal Discussion / Kyiv Centre for Advanced Studies   |
 
 Day 4, Thursday, August 31
 
