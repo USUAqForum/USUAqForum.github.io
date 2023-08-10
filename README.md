@@ -18,8 +18,8 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 ## Confirmed Invited Speakers
 
 * Martina Barnas, Office of Naval Research Global, London, UK
-* Jonathon Brame, Engineer at Engineer Research and Development Center - US Army
-* Maija Kukla, Program Director, OISE/OD/NSF, IMPRESS-U
+* [Jonathon Brame](https://www.erdc.usace.army.mil/Media/Images/igphoto/2001748497/), Engineer at Engineer Research and Development Center - US Army
+* [Maija Kukla](http://www.kuklagroup.umd.edu/about/index.html), Program Director, OISE/OD/NSF, IMPRESS-U
 * [Kurt Jacobs](http://www.quantum.umb.edu/Jacobs/), US Army Research Laboratory and University of Massachusetts, Boston
 * [Adam Kaufman](https://jila.colorado.edu/kaufman), JILA, University of Colorado at Boulder
 * [Ignacio Franco](https://www.sas.rochester.edu/chm/people/faculty/franco-ignacio/index.html), University of Rochester
