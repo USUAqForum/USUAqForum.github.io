@@ -56,10 +56,10 @@ Day 1, Monday, August 28
 
 | Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
-| 10:00 - 10:20  | 17:00 - 17:20  | Opening - Denys Bondar  |
+| 10:00 - 10:20  | 17:00 - 17:20  | Maija Kukla   |
 | 10:20 - 10:40  | 17:20 - 17:40  | Martina Barnas  |
 | 10:40 - 11:00  | 17:40 - 18:00  | Jonathon Brame |
-| 11:00 - 11:20  | 18:00 - 18:20  | Maija Kukla     |
+| 11:00 - 11:20  | 18:00 - 18:20  | Charlton “David” Lewis  |
 |  |  short break | |
 | 11:40 - 12:20  | 18:40 - 19:20  | Ignacio Franco      |
 | 12:20 - 13:00  | 19:20 - 20:00  | Christian Arenz      |
