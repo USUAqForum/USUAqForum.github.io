@@ -52,9 +52,10 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Vladyslav Unukovych](https://scholar.google.com/citations?user=tcJbX6cAAAAJ), V.N. Karazin National University, Kharkiv
 
 ## Schedule
+
 Day 1, Monday, August 28
 
-| Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
+| Time (US) EDT  | Time (UA) EEST  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 10:00 - 10:20  | 17:00 - 17:20  | Maija Kukla   |
 | 10:20 - 10:40  | 17:20 - 17:40  | Martina Barnas  |
@@ -63,10 +64,11 @@ Day 1, Monday, August 28
 |  |  short break | |
 | 11:40 - 12:20  | 18:40 - 19:20  | Ignacio Franco      |
 | 12:20 - 13:00  | 19:20 - 20:00  | Christian Arenz      |
+|<sub>*EDT: Eastern Daylight Time, UTC-4</sub> | <sub>*EEST: East European Summer Time, UTC+3</sub>
 
 Day 2, Tuesday, August 29
 
-| Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
+| Time (US) EDT  | Time (UA) EEST  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 |  7:00 -  7:20  | 14:00 - 14:20  | Khrystyna Gnatenko  |
 |  7:20 -  7:40  | 14:20 - 14:40  | Maksym Teslyk   |
@@ -85,7 +87,7 @@ Day 2, Tuesday, August 29
 
 Day 3, Wednesday, August 30
 
-| Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
+| Time (US) EDT  | Time (UA) EEST  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 7:00 - 7:20  | 14:00 - 14:20  | Igor Gapyak |
 | 7:20 - 7:40  | 14:20 - 14:40  | Viktor Gerasimenko    |
@@ -104,7 +106,7 @@ Day 3, Wednesday, August 30
 
 Day 4, Thursday, August 31
 
-| Time (US) EST  | Time (UA) EET  | Activity / Speaker      |
+| Time (US) EDT  | Time (UA) EEST  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 7:00 - 7:20  | 14:00 - 14:20  | Mykhaylo Khoma    |
 | 7:20 - 7:40  | 14:20 - 14:40  | Robert Lompay    |
