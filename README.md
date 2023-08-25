@@ -130,4 +130,8 @@ The abstracts submitted by Ukrainian participants will be published in the accom
 To be included to the mailing list for the key updates about the qForum and to attend it (the link will be sent over email), please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd4YCYAoZ8ZqiDg4kaEN6MXU5mSl40uhA3tXprs7A7aKjlatw/viewform?usp=sf_link) (optional).
 
 ## The event is sponsored by
+Office of Naval Research Global Grant # N62909-23-1-2088
+
+and
+
 <img src="https://sse.tulane.edu/sites/default/files/sse_lockup.png" width="400">
