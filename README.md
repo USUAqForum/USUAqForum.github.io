@@ -58,9 +58,8 @@ Day 1, Monday, August 28
 | Time (US) EDT  | Time (UA) EEST  | Activity / Speaker      |
 | -------------- | -------------- | :----------------------:|
 | 10:00 - 10:20  | 17:00 - 17:20  | Maija Kukla   |
-| 10:20 - 10:40  | 17:20 - 17:40  | Martina Barnas  |
-| 10:40 - 11:00  | 17:40 - 18:00  | Jonathon Brame |
-| 11:00 - 11:20  | 18:00 - 18:20  | Charlton “David” Lewis  |
+| 10:20 - 10:50  | 17:20 - 17:50  | Martina Barnas, Jonathon Brame, and Charlton “David” Lewis |
+| 10:50 - 11:20  | 17:50 - 18:20  | Q&A for Partners |
 |  |  short break | |
 | 11:40 - 12:20  | 18:40 - 19:20  | Ignacio Franco      |
 | 12:20 - 13:00  | 19:20 - 20:00  | Christian Arenz      |
