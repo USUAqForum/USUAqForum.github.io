@@ -51,6 +51,8 @@ Topics covered include, but not limited to: Quantum information, computing, comm
 * [Maksym Teslyk](https://scholar.google.com.ua/citations?user=BjcJn_IAAAAJ), Taras Shevchenko National University of Kyiv
 * [Vladyslav Unukovych](https://scholar.google.com/citations?user=tcJbX6cAAAAJ), V.N. Karazin National University, Kharkiv
 
+The abstracts submitted by contributed speakers are collected in [the book of abstracts](./Abstracts_USUAqForum_2023.pdf).
+
 ## Schedule
 
 Day 1, Monday, August 28
@@ -123,10 +125,10 @@ Day 4, Thursday, August 31
 
 <!-- ## [General Registration](https://forms.office.com/Pages/ResponsePage.aspx?id=g4HpndklE0ufw03lSJwfO5hB23SQfe1Pj10lK9v_r4VUNjhRN0FCQ05QU1dQUUVTNjJFSTlPV1U3MC4u) -->
 
-## Important Notice for Potential Ukrainian Participants 
+## Proceedings 
 
 <!-- To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 10, 2023**. -->
-The abstracts submitted by Ukrainian participants will be published in the accompanying proceedings (see also [the book of abstracts](./Abstracts_USUAqForum_2023.pdf)).  
+Contributions from Ukrainian participants are published in [the accompanying proceedings](./Proceedings_USUAqForum_2023.pdf).  
 <!-- To be included to the mailing list for the key updates about the qForum and to attend it (the link will be sent over email), please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd4YCYAoZ8ZqiDg4kaEN6MXU5mSl40uhA3tXprs7A7aKjlatw/viewform?usp=sf_link) (optional). -->
 
 ## The event is sponsored by
