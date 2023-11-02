@@ -136,6 +136,7 @@ Office of Naval Research Global Grant # N62909-23-1-2088
 
 and
 
-<img src="https://sse.tulane.edu/sites/default/files/sse_lockup.png" width="400">
+<img src="./tulane_logo.png" width="400">
+<!-- <img src="https://sse.tulane.edu/sites/default/files/sse_lockup.png" width="400"> -->
 
 ## Interested in future event? [Leave your contact information here](https://forms.office.com/r/jkH0qY6zbb)
