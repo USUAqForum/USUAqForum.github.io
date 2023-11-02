@@ -128,7 +128,7 @@ Day 4, Thursday, August 31
 ## Proceedings 
 
 <!-- To be selected for presentations, participants from Ukraine [must submit the extended abstract](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FUSUAqForum2023) using [this LaTeX template](./surname_name.tex) **before July 10, 2023**. -->
-Contributions from Ukrainian participants are published in [the accompanying proceedings](./Proceedings_USUAqForum_2023.pdf).  
+Contributions from Ukrainian participants are published in [the accompanying proceedings](./Proceedings_USUAqForum_2023.pdf) ([alternative link](https://github.com/USUAqForum/USUAqForum.github.io/blob/main/Proceedings_USUAqForum_2023.pdf)).  
 <!-- To be included to the mailing list for the key updates about the qForum and to attend it (the link will be sent over email), please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd4YCYAoZ8ZqiDg4kaEN6MXU5mSl40uhA3tXprs7A7aKjlatw/viewform?usp=sf_link) (optional). -->
 
 ## The event is sponsored by
